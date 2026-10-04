@@ -9,4 +9,4 @@ left arrow -> go left
 
 key 0 -> leave game
 
-key toolbox -> change level
+key toolbox + level number -> change level
